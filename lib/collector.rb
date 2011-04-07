@@ -1,0 +1,3 @@
+module Collector
+  # Your code goes here...
+end
